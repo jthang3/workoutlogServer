@@ -15,7 +15,7 @@ app.use(require("./middleware/header"));
 app.use("/user",router);
 app.use(require("./middleware/validate")); 
 //validating everything below
-app.use(require("./middleware/validate"));
+//app.use(require("./middleware/validate"));
 app.use("/log",Log);
 
 //listening
