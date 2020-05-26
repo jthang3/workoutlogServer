@@ -1,2 +1,2 @@
 # result screenshots
-![](/ResultImg/CreateLog-Copy.PNG)
+![](/ResultImg/CreateLog%20-%20Copy.PNG)
